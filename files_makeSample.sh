@@ -1,0 +1,1 @@
+sh /media/nfs/nfs02/wangyi/files_make_sample.sh>sample.txt
